@@ -1,0 +1,17 @@
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\obj\Debug\net6.0-windows\Milage.csproj.AssemblyReference.cache
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\obj\Debug\net6.0-windows\Milage.Form1.resources
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\obj\Debug\net6.0-windows\Milage.csproj.GenerateResource.cache
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\obj\Debug\net6.0-windows\Milage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\obj\Debug\net6.0-windows\Milage.AssemblyInfoInputs.cache
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\obj\Debug\net6.0-windows\Milage.AssemblyInfo.cs
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\obj\Debug\net6.0-windows\Milage.csproj.CoreCompileInputs.cache
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\bin\Debug\net6.0-windows\Milage.exe
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\bin\Debug\net6.0-windows\Milage.deps.json
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\bin\Debug\net6.0-windows\Milage.runtimeconfig.json
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\bin\Debug\net6.0-windows\Milage.dll
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\bin\Debug\net6.0-windows\Milage.pdb
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\obj\Debug\net6.0-windows\Milage.dll
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\obj\Debug\net6.0-windows\refint\Milage.dll
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\obj\Debug\net6.0-windows\Milage.pdb
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\obj\Debug\net6.0-windows\Milage.genruntimeconfig.cache
+C:\Users\16507\Desktop\C#\Ch4\Milage\Milage\obj\Debug\net6.0-windows\ref\Milage.dll
